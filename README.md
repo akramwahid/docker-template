@@ -2,7 +2,7 @@
 
 #Usage
 
-clone it using `git clone .....`
+clone it using `git clone https://github.com/akramwahid/docker-template`
 
 ---
 #1 __Spin up docker container__
