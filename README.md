@@ -24,7 +24,7 @@ you can do it in `docker-compose.yml` file.
 
  proceed and type the following commands in your terminal to install the project.
 
-`docker-compose run --rm composer install`
+`docker-compose run --rm composer create-project laravel/laravel=8 /src`
 
 ---
   
